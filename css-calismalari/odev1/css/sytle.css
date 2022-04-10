@@ -1,0 +1,68 @@
+/*************Layout************/
+body {
+    background-color: #e6e6fa;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+/************Selectors***********/
+/* Ortaya hizalama */
+.center {
+    text-align: center;
+}
+/* Sola yaslama */
+.left-aside {
+    float: left;
+    margin-top: 55px;
+}
+/* Sağa yaslama */
+.right-aside{
+    float: right;
+    margin-top: 55px;
+}
+/* Pozisyon ve arkaplan */
+.main-text{
+    padding: 5px 0px;
+    background-color: #87cefa;
+
+}
+/* Liste simgelerini kaldırma */
+.list-style {
+    list-style-type: none;
+}
+/* Renk ve pozisyon stilleme */
+.dc {
+    color: black;
+    background-color: #e6e6fa;
+    padding: 2px 5px;
+}
+.marvel {
+    color: black;
+    background-color: #e6e6fa;
+    padding: 2px 5px;
+}
+/* Arkaplan */
+.redbg {
+    background-color: tomato;
+}
+.bluebg {
+    background-color:#87cefa ;
+}
+/* Pozisyon */
+.mar-pad0 {
+    margin: 0px;
+    padding: 0px;
+}
+/* Stil, arkaplan ve renk */
+.idxftra {
+    text-decoration: none; 
+    background-color: lemonchiffon; 
+    color: black;
+}
+/* Pozisyon */
+.prdcthdr {
+    padding-bottom: 15px;
+}
+/* Renk */
+.color1 {
+    color: blanchedalmond;
+}
